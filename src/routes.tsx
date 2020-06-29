@@ -6,7 +6,7 @@ import CreatePoint from "./pages/CreatePoint";
 const Routes = () => (
   <BrowserRouter>
     <Route path="/" exact component={Home} />
-    <Route path="/bumba" component={CreatePoint} />
+    <Route path="/create-point" component={CreatePoint} />
   </BrowserRouter>
 );
 
