@@ -11,7 +11,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "@types/react-leaflet": "^2.5.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "deep-map-keys": "^2.0.1",
     "leaflet": "^1.6.0",
     "lodash": "^4.17.15",
