@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "deep-map-keys": "^2.0.1",
     "leaflet": "^1.6.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icons": "^3.10.0",
